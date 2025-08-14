@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Written by human not AI.](<img width="131" height="42" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/user-attachments/assets/a2a71d4a-ea3f-43e0-88d2-a33bfffe6b64" />)
+
+
+
+
+
 <!--
 **Patryk-Osz/Patryk-Osz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
