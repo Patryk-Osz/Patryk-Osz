@@ -5,9 +5,11 @@
   <p>✧ 𝕒 𝕡 𝕡 𝕣 𝕖 𝕔 𝕚 𝕒 𝕥 𝕠 𝕣 ✧</p>
   <p>📼 ‧ ☕ ‧ 🕯️ ‧ 👁️</p>
   <a href="https://letterboxd.com/patryko5/" >✧ 𝙴 𝙽 𝚃 𝙴 𝚁 &nbsp; 𝚃 𝙷 𝙴 &nbsp; 𝚃 𝙷 𝙴 𝙰 𝚃 𝙴 𝚁 ✧</a>
+  <br>
+  <img src="https://docs.sqlalchemy.org/en/21/_static/dragons.png"/> <img width="262" height="84" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/user-attachments/assets/a2a71d4a-ea3f-43e0-88d2-a33bfffe6b64" /> 
 </div>
 
-<img src="https://docs.sqlalchemy.org/en/21/_static/dragons.png"/> <img width="262" height="84" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/user-attachments/assets/a2a71d4a-ea3f-43e0-88d2-a33bfffe6b64" /> 
+
 
 
 
