@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Contemplative cinema appreciator
+**C O N T E M P L A T I V E  C I N E M A  A P P R E C I A T O R**
 
 <img src="https://docs.sqlalchemy.org/en/21/_static/dragons.png"/> <img width="262" height="84" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/user-attachments/assets/a2a71d4a-ea3f-43e0-88d2-a33bfffe6b64" /> 
 
